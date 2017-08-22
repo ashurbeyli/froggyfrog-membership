@@ -1,5 +1,6 @@
 {
   "name": "froggyfrog-membership",
+  "version" : "0.1.0",
   "author": "jeyhun",
   "description": "A Membership system patterned after Devise",
   "dependencies": {},

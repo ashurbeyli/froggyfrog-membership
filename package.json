@@ -1,9 +1,12 @@
 {
   "name": "froggyfrog-membership",
-  "version" : "0.1.0",
+  "version": "0.1.1",
   "author": "jeyhun",
   "description": "A Membership system patterned after Devise",
-  "dependencies": {},
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "secondthought": "github:robconery/second-thought"
+  },
   "devDependencies": {
     "grunt": "*",
     "grunt-contrib-jshint": "*",
